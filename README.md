@@ -36,8 +36,8 @@ Output:
 Hello, Captain!
 ```
 
-### Advanced Version (Optional)
-The repository also includes an advanced version of the Dockerfile that allows customizing the greeting. To use the advanced version:
+### Run container using Custom Name
+The repository also includes an another version of the Dockerfile that allows customizing the name. To use this version:
 
 1. Build using the advanced Dockerfile:
 ```bash
@@ -58,7 +58,7 @@ Hello, Vinit!
 .
 ├── README.md
 ├── Dockerfile           # Basic version
-└── Dockerfile.yourname  # Advanced version (optional)
+└── Dockerfile.yourname  # Custom version
 ```
 
 ## Technical Details
