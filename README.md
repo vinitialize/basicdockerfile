@@ -79,10 +79,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Docker documentation
 - Alpine Linux team
-
-## Author
-Vinit B
-
-
----
-Made with ❤️ using Docker
